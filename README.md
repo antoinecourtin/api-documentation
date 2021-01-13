@@ -1,3 +1,4 @@
+
 # Documentation de l'API du portail des collections
 
 Une API (abréviation de Application Programming Interface ou Interface de programmation en français) est une manière pour un logiciel, un service web ou une base de données de communiquer avec d’autres éléments semblables. Elle permet de créer des relations et d’échanger des données entre différents types d’éléments. On pourrait ainsi la représenter comme un maillon permettant de relier deux chaînes. Ici, l’API permet à un utilisateur tiers de récupérer une partie des données des collections de Paris Musées sous la forme de fichiers au format JSON.
